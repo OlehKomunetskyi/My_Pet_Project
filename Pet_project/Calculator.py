@@ -117,3 +117,6 @@ if __name__ == '__main__':
                 print(f'{num1} raised to {exponent} = {result}')
             except ValueError:
                 print('*Enter a number!*')
+
+#I added a comment just to make any unharmful changes to code;
+#2d comment just to check the local changes
