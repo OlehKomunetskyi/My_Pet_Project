@@ -118,7 +118,4 @@ if __name__ == '__main__':
             except ValueError:
                 print('*Enter a number!*')
 
-#I added a comment just to make any unharmful changes to code;
-#2d comment just to check the local changes
-#what if I add 3d comment, checking showdiff option
-#44444444
+#once again, just adding a comment
